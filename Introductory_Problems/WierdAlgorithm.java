@@ -1,4 +1,4 @@
-// package Introductory_Problems;
+package Introductory_Problems;
 import java.util.Scanner;
 class WierdAlgorithm{
     public static void main(String[] args){

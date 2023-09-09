@@ -1,4 +1,4 @@
-// package Introductory_Problems;
+package Introductory_Problems;
 import java.util.Scanner;
 public class MissingNumber {
     public static void main(String[] args) {
@@ -17,9 +17,3 @@ public class MissingNumber {
 		System.out.println(xor);
 	}		
 }
-
-// import java.util.Scanner;
-// public class missing
-// {
-	
-// }
