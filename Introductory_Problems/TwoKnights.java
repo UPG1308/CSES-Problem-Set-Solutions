@@ -91,6 +91,7 @@ public class Main{
             //total number of 3x2 and 2x3 matrices in the grid ==> (n - 2)*(n - 1) and (n - 1)*(n - 2)
             // (n - 2)*(n - 1) + (n - 1)*(n - 2) = 2 * (n - 1)*(n - 2)
             // and in each rectangle 2x3 and 3x2 grids we can place knights 2 ways ==> 2 * 2 * (n - 1)*(n - 2)
+            //youtube link ---- https://youtu.be/uHAGgpa2qwA?si=VEqA54la-h1ICQsp
             out.println(totalWays - totalAttacks);
         }
     }
