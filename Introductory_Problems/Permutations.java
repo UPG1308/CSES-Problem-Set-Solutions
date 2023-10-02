@@ -1,4 +1,4 @@
-package Introductory_Problems;
+
 import java.util.Scanner;
 public class Permutations {
     public static void main(String[] args) {

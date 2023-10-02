@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 
 
-public class Main{
+public class BinaryString{
     static class FastReader{
         BufferedReader br;
         StringTokenizer st;
